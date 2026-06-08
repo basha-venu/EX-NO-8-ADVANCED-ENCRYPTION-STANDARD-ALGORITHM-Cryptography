@@ -47,6 +47,9 @@ int main() {
 ```
 ## OUTPUT:
 
+![Uploading image.png…]()
+
+
 ## RESULT:
 
 Hence the experiment has been executed successfully
